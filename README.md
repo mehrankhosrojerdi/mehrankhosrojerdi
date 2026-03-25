@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a postdoctoral researcher at the University of Ljubljana, working in the Department of Computer Science. My research focuses on the intersection of quantum machine learning and tensor networks, with an emphasis on developing efficient algorithms for complex many-body systems.<br><br>I obtained my PhD in Physics and Astronomy from the University of Florence, where my thesis explored quantum machine learning algorithms for many-body systems.<br><br>I consider myself a machine learning specialist and a Python developer, with strong experience in scientific computing and research-oriented problem solving.
+I am currently a postdoctoral researcher at the University of Ljubljana, working in the Department of Computer Science. My research focuses on the intersection of quantum machine learning and tensor networks.<br><br>I obtained my PhD in Physics and Astronomy from the University of Florence, where my thesis explored quantum machine learning algorithms for many-body systems.<br><br>I consider myself a machine learning specialist and a Python developer, with strong experience in scientific computing and research-oriented problem solving.
 
 
 ## 🌐 Socials:
